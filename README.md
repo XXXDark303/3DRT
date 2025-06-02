@@ -5,7 +5,8 @@
 
 **Supported Platforms**:
 
-![Windows_logo_-_2012 svg (1)](https://github.com/user-attachments/assets/1e9cc328-dae9-4c84-8271-b74cdaa41977)
 
 
+
+![Windows_logo_-_2012 svg (1)](https://github.com/user-attachments/assets/4532b533-2c64-4309-bf0b-7cb2d0577155)
 
