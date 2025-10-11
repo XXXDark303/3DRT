@@ -9,7 +9,7 @@
 
 
   <details>
-    [About](https://google.com)
+    <a href="https://google.com">About</a>    <a href="https://google.com">Releases</a>     <a href="https://google.com">License</a> 
   </details>
 
   
