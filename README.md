@@ -8,9 +8,9 @@
   </a>
 
 
-  <details>
-    <a href="https://google.com">About</a>    <a href="https://github.com/XXXDark303/3DRT/releases">Releases</a>     <a href="https://google.com">License</a> 
-  </details>
+  
+  <a href="https://google.com">About</a>    <a href="https://github.com/XXXDark303/3DRT/releases">Releases</a>     <a href="https://google.com">License</a> 
+  
 
   
 
