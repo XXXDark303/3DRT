@@ -18,9 +18,7 @@
 ![Forks](https://img.shields.io/github/forks/XXXDark303/3DRT)
 
 
-<a href="https://www.vulkan.org">
-    <img width="256" height="256" alt="vulkan" src="https://github.com/user-attachments/assets/dd6f869f-7adf-40ea-aa5a-5e8537155270" />
-</a>     <img width="128" height="128" alt="java" src="https://github.com/user-attachments/assets/a902a8ca-612a-4b74-b7e8-c6e90bd95476" />
+ <img width="256" height="256" alt="vulkan" src="https://github.com/user-attachments/assets/dd6f869f-7adf-40ea-aa5a-5e8537155270" />    <img width="128" height="128" alt="java" src="https://github.com/user-attachments/assets/a902a8ca-612a-4b74-b7e8-c6e90bd95476" />
 
 
 
