@@ -10,7 +10,7 @@
 <a href="https://github.com/XXXDark303/3DRT/blob/main/credits.md">Credits</a> · <a href="https://github.com/XXXDark303/3DRT/releases">Releases</a> · <a href="https://github.com/XXXDark303/3DRT/blob/main/LICENSE.md">License</a> 
 
 
-  3DRT is a software to enhance Minecraft Java's graphics by installing a custom version in the client,it includes up to 8K PBR textures,Vulkan 1.3,realistic lighting,Blender models and more (1.20+) (Coming Soon)
+3DRT is a software to enhance Minecraft Java's graphics by installing a custom version in the client,it includes up to 8K PBR textures,Vulkan 1.3,realistic lighting,Blender models and more (1.20+) (Coming Soon)
   
 
   
