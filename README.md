@@ -26,8 +26,10 @@
 
 
 
-3DRT is a software to enhance Minecraft Java's graphics by installing a custom version in the client,it includes up to 8K PBR textures,Vulkan 1.3,realistic lighting,Blender models and more (1.20+) (Coming Soon)
-  
+3DRT is a software to enhance Minecraft Java's graphics by using low level injection at runtime in the Minecraft client,it includes up to 8K PBR textures,Vulkan 1.3,realistic lighting,Blender models and more (1.20+) (Coming Soon)
+
+**Requirements: **
+A GPU that supports hardware accelerated ray tracing is required to run this project 
 
   
 
